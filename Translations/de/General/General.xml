@@ -34,7 +34,7 @@
 		<DISTANCECHECK><![CDATA[Entschuldigung, Sie waren zu nah am Einsatzort, um ihn zu starten.]]></DISTANCECHECK>
 		<INVALIDPED><![CDATA[Schiebs auf GTAV!]]></INVALIDPED>
 		<INVALIDPED><![CDATA[~o~GTAV hat einen unserer Peds gelöscht! Wir konnten nichts tun, außer einen Absturz zu verhindern, aber das sollte nicht öfter passieren.]]></INVALIDPED>
-		<DISPATCH><![CDATA[Leistelle]]></DISPATCH>
+		<DISPATCH><![CDATA[Leitstelle]]></DISPATCH>
 		<DIALOGUEOVER><![CDATA[Dialog vorbei. Handeln Sie je nach Situation.]]></DIALOGUEOVER>
 		<BEGINSPEAKING><![CDATA[Drücken Sie ~y~{0}~w~, um zu sprechen.]]></BEGINSPEAKING>
 		<ENDREMINDER><![CDATA[Drücken Sie ~y~{0}~w~ jederzeit, um den Einsatz zu beenden.]]></ENDREMINDER>
